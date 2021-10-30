@@ -33,6 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat-unt&show_icons=true&locale=en&layout=compact" alt="akshat-unt" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat-unt&show_icons=true&locale=en" alt="akshat-unt" /></p>
+![Akshat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshat-unt&show_icons=true&theme=dark&hide_border=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-unt&" alt="akshat-unt" /></p>
+![Akshat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?theme=dark&user=Akshat-unt&hide_border=true)
