@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, HTML, CSS**
 
-- 📫 How to reach me **Akshat-unt@github.com**
+- 📫 How to reach me **Akshat-unt@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
