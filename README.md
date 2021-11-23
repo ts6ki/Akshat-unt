@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Python & Web-Development**
 
-- 📫 How to reach me **AkshatUNT@protonmail.com**
+- 📫 How to reach me **AkshatUNT@protonmail.com** or **akshat.unt@gmail.com**
 
 - 📄 Know about my experiences [https://akshat-unt.github.io/](https://akshat-unt.github.io/)
 
